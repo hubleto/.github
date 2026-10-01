@@ -13,6 +13,6 @@ Ready for [vibe coding](https://developer.hubleto.eu/v2/prompts).
 ## Installation
 
 ```
-composer create-project hubleto/erp-project .
+composer create-project hubleto/custom .
 php hubleto init
 ```
