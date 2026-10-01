@@ -8,7 +8,7 @@
 
 Opensource business application hub. Lightweight alternative to Salesforce, Odoo, Monday.com, Pipedrive, HubSpot and other similar products.
 
-Ready for [vibe coding](https://developer.hubleto.eu/v2/prompts)
+Ready for [vibe coding](https://developer.hubleto.eu/v2/prompts).
 
 ## Installation
 
