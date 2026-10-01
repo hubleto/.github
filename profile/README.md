@@ -6,7 +6,7 @@
 
 ## Welcome to Hubleto!
 
-Opensource business application hub. Alternative to Saleforce, Odoo, Monday.com and others.
+Opensource business application hub. Lightweight alternative to Saleforce, Odoo, Monday.com, Pipedrive, HubSpot and other similar products.
 
 ## Installation
 
