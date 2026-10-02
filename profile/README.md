@@ -16,3 +16,5 @@ Ready for [vibe coding](https://developer.hubleto.eu/v2/prompts).
 composer create-project hubleto/custom
 php hubleto init
 ```
+
+More installation options in [hubleto/custom](hubleto/custom) repository.
