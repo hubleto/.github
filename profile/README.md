@@ -17,4 +17,4 @@ composer create-project hubleto/custom
 php hubleto init
 ```
 
-More installation options in [hubleto/custom](hubleto/custom) repository.
+More installation options in [hubleto/custom](https://github.com/hubleto/custom) repository.
